@@ -15,3 +15,9 @@ p
     text-align: center;
     color: red;
 }
+
+p.center
+{
+    text-align: center;
+    color: red;
+}
