@@ -75,3 +75,11 @@ body
     background-image: url("gradient_bg.png");
     background-repeat: repeat-x;
 }
+
+/*Don't repeat the background*/
+
+body 
+{
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+}
