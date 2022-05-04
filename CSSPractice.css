@@ -92,3 +92,6 @@ body
     background-position: right top;
     background-attachment: fixed;
 }
+
+/*Border styles for paragraphs*/
+p.dotted {border-style: dotted;}
