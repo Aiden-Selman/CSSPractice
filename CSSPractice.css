@@ -95,3 +95,4 @@ body
 
 /*Border styles for paragraphs*/
 p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
