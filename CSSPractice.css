@@ -122,3 +122,6 @@ div
     padding-bottom: 50px;
     padding-left: 80px;
 }
+
+/*Outline*/
+p.dotted {outline-style: dotted;}
