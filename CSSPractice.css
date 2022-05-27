@@ -133,8 +133,25 @@ p.ridge {outline-style: ridge;}
 p.inset {outline-style: inset;}
 p.outset {outline-style: outset;}
 
-/*Text color*/
+/*Text*/
+/*Background colour text*/
 body 
 {
     color: blue;
+}
+
+/*Text alignment*/
+h1 
+{
+    text-align: center;
+}
+  
+h2 
+{
+    text-align: left;
+}
+  
+h3 
+{
+    text-align: right;
 }
