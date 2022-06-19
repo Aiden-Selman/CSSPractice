@@ -177,11 +177,12 @@ p.c
 }
 
 /*Text decoration*/
+/*Specific text decorating*/
 h1 
 {
     text-decoration-line: overline;
 }
-  
+
 h2 
 {
     text-decoration-line: line-through;
@@ -195,4 +196,23 @@ h3
 p 
 {
     text-decoration-line: overline underline;
+}
+/*General text decorating*/
+h1
+{
+    text-decoration: underline;
+}
+  
+h2 
+{
+    text-decoration: underline red;
+}
+h3 
+{
+    text-decoration: underline red double;
+}
+  
+p 
+{
+    text-decoration: underline red double 5px;
 }
