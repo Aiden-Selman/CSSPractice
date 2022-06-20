@@ -197,6 +197,7 @@ p
 {
     text-decoration-line: overline underline;
 }
+
 /*General text decorating*/
 h1
 {
@@ -215,4 +216,10 @@ h3
 p 
 {
     text-decoration: underline red double 5px;
+}
+
+/*Simple text-decoration trick to remove all decoration*/
+a 
+{
+    text-decoration: none;
 }
