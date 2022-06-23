@@ -239,3 +239,10 @@ p.capitalize
 {
     text-transform: capitalize;
 }
+
+/*Text spacing*/
+/*Text indent*/
+p 
+{
+    text-indent: 50px;
+}
