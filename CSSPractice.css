@@ -246,3 +246,14 @@ p
 {
     text-indent: 50px;
 }
+
+/*Letter spacing*/
+h1 
+{
+    letter-spacing: 5px;
+}
+  
+h2 
+{
+    letter-spacing: -2px;
+}
