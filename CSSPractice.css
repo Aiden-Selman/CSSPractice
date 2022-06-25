@@ -257,3 +257,14 @@ h2
 {
     letter-spacing: -2px;
 }
+
+/*Line height*/
+p.small 
+{
+    line-height: 0.8;
+}
+  
+p.big 
+{
+    line-height: 1.8;
+}
