@@ -268,3 +268,14 @@ p.big
 {
     line-height: 1.8;
 }
+
+/*Word spacing*/
+p.one 
+{
+    word-spacing: 10px;
+}
+  
+p.two 
+{
+    word-spacing: -2px;
+}
