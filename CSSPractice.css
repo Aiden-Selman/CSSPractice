@@ -279,3 +279,9 @@ p.two
 {
     word-spacing: -2px;
 }
+
+/*White Space*/
+p 
+{
+    white-space: nowrap;
+}
