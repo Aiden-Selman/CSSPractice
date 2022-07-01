@@ -323,3 +323,14 @@ p.oblique
 {
     font-style: oblique;
 }
+
+/*Font weight*/
+p.normal 
+{
+    font-weight: normal;
+}
+  
+p.thick 
+{
+    font-weight: bold;
+}
