@@ -334,3 +334,14 @@ p.thick
 {
     font-weight: bold;
 }
+
+/*Font variant*/
+p.normal 
+{
+    font-variant: normal;
+}
+  
+p.small 
+{
+    font-variant: small-caps;
+}
