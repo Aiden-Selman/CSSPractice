@@ -366,3 +366,9 @@ p
 {
     font-size: 0.875em;
 }
+
+/*Links*/
+a 
+{
+    color: hotpink;
+}
