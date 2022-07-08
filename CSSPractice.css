@@ -430,3 +430,11 @@ ol.d
 {
     list-style-type: lower-alpha;
 }
+
+/*remove default list settings*/
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
