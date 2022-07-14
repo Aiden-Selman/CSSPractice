@@ -451,3 +451,10 @@ table
 {
     width: 100%;
 }
+
+/*Border collapse*/
+/*property sets whether the table borders should be collapsed into a single border*/
+table 
+{
+    border-collapse: collapse;
+}
