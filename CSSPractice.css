@@ -440,7 +440,7 @@ ul
 }
 
 /*Tables*/
-/*Tabel border*/
+/*Table border*/
 table, th, td 
 {
     border: 1px solid;
@@ -457,4 +457,16 @@ table
 table 
 {
     border-collapse: collapse;
+}
+
+/*Table size*/
+/*The width and height of a table are defined by the width and height properties*/
+table 
+{
+    width: 100%;
+}
+  
+th 
+{
+    height: 70px;
 }
