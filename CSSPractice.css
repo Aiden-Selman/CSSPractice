@@ -470,3 +470,10 @@ th
 {
     height: 70px;
 }
+
+/*Table alignment*/
+/*Property sets the horizontal alignment (like left, right, or center) of the content in <th> or <td>*/
+td 
+{
+    text-align: center;
+}
