@@ -477,3 +477,10 @@ td
 {
     text-align: center;
 }
+
+/*Property sets the vertical alignment (like top, bottom, or middle) of the content in <th> or <td>*/
+td 
+{
+    height: 50px;
+    vertical-align: bottom;
+}
