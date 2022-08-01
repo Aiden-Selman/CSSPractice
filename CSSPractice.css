@@ -491,3 +491,9 @@ th, td
     padding: 15px;
     text-align: left;
 }
+
+/*Add the border-bottom property to <th> and <td> for horizontal dividers*/
+th, td 
+{
+    border-bottom: 1px solid #ddd;
+}
