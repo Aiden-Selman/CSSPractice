@@ -497,3 +497,9 @@ th, td
 {
     border-bottom: 1px solid #ddd;
 }
+
+/*For zebra-striped tables, use the nth-child() selector and add a background-color to all even (or odd) table rows*/
+tr:nth-child(even) 
+{
+    background-color: #f2f2f2;
+}
