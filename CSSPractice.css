@@ -503,3 +503,10 @@ tr:nth-child(even)
 {
     background-color: #f2f2f2;
 }
+
+/*The example below specifies the background color and text color of <th> elements*/
+th 
+{
+    background-color: #04AA6D;
+    color: white;
+}
