@@ -510,3 +510,10 @@ th
     background-color: #04AA6D;
     color: white;
 }
+
+/*Display*/
+/*A common example is making inline <li> elements for horizontal menus*/
+li 
+{
+    display: inline;
+}
