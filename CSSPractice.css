@@ -517,3 +517,9 @@ li
 {
     display: inline;
 }
+
+/*The following example displays <span> elements as block elements*/
+span
+{
+    display: block;
+}  
